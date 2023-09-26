@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+}
+.rat { 
+    position: absolute;
+    width: 250px;
+    height: 275px;
+    top: 1050px;
+    left: 1000px;
+}
+.DOLL{ position: absolute;
+    width:300px;
+    height: 300px;
+    top: 1090px;
+}
+.pizza{ position: absolute;
+    width: 75%;
+    height: 12%;
+    top: 1450px;
+    left: 180px;
+}
+.pizza2 { position: absolute;
+    width: 75%;
+    height: 12%;
+    top: 1545px;
+    left: 180px;
+}
+
+
+h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 16vw;
+    color:#bbabcd ;
+    text-shadow:  4px 4px 4px #c44bc2, 6px 6px 2px #78ff69 ;
+    
+}
+.cement {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+
+
+}
+ p{
+    position:absolute;
+    top: 750px;
+    left: 5px;
+   margin: 15rem;
+   font-size: 1.5rem;
+
+
+}

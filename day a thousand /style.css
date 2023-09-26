@@ -1,0 +1,38 @@
+body{font family: arial:display}
+.box{background-color:violet;
+    height: 5rem;
+    width: 5rem;
+    margin: 0.5rem;
+    place-items: center;
+    display:grid;
+}
+
+.absolute{
+    background-color: aquamarine;
+    position: absolute;
+    right: 20px;
+    top: 400x;
+}
+.fixed {position: fixed;
+background-color: orange;
+right: 0px;
+bottom: 300px;
+}
+.relative{
+    background-color: olivedrab;
+    color: white;
+    position: relative;
+width:10rem;
+height:10rem;
+display:block;
+}
+.child{width: 50%
+    height:50%
+    withd:50%
+    margin: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
