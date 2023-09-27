@@ -26,8 +26,31 @@ body{
     left: 180px;
 }
 
-
-h1 {
+.blastergirl{position: absolute;
+    width: 300px;;
+    top: 2000px;
+    right: 350px;
+}
+    
+    .blastergirl1{position: absolute;
+        width:300px;
+        top: 2150px;
+        right: 600px;
+    }
+        
+        .blastergirl2{position: absolute;
+            width:300px;
+            top: 1700px;
+            right: 550px;
+        }
+       
+            .blastergirl3{position: absolute;
+                width:300px;
+                top: 1900px;
+                right: 800px;
+            }
+               
+h1 { 
     position: absolute;
     top: 50%;
     left: 50%;
@@ -48,6 +71,7 @@ h1 {
 
 
 }
+
  p{
     position:absolute;
     top: 750px;
