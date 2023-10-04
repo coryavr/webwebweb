@@ -5,13 +5,14 @@ body{
     position: absolute;
     width: 250px;
     height: 275px;
-    top: 1050px;
+    top: 1070px;
     left: 1000px;
 }
 .DOLL{ position: absolute;
     width:300px;
     height: 300px;
-    top: 1090px;
+    top: 1150px;
+    left: 200px;
 }
 .pizza{ position: absolute;
     width: 75%;
