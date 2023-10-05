@@ -82,3 +82,10 @@ h1 {
 
 
 }
+.webring{border: 4px dashed purple;
+padding: 1rem;
+width: max-content;
+}
+.webring a {margin-right: 1rem;
+    margin-left: 1rem;
+}
