@@ -1,0 +1,96 @@
+.a {
+
+flex-direction: row;
+justify-content:flex-end ;
+align-items:flex-end;
+gap: ;
+
+    
+
+
+  }
+  
+  .b {
+    flex-direction:column ;
+justify-content: space-between;
+align-items: ;
+gap: ;
+  }
+  
+  .c {
+    /* your code here */
+  }
+  
+  .d {
+    /* your code here */
+  }
+  
+  .e {
+    /* your code here */
+  }
+  
+  .f {
+    /* your code here */
+  }
+  
+  .g {
+    /* your code here */
+  }
+  
+  /* Don't change any CSS below this line */
+  
+  * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+  }
+  
+  body {
+      font-family: Arial;
+      max-width: 40rem;
+      margin: 0 auto;
+      padding: .5rem;
+  }
+  
+  p {
+    font-size: 1.25rem;
+    margin: 1em 0;
+  }
+  
+  ul {
+    margin-left: 2rem;
+    font-size: 1.25rem;
+  }
+  
+  header {
+      padding: 2rem 0;
+  }
+  
+  section {
+    margin-bottom: 6rem;
+  }
+  
+  section h2 {
+    margin: 2rem 0;
+  }
+  
+  .container {
+      display: flex;
+      background-color: lightgray;
+      height: 30rem;
+  }
+  
+  .flex-item {
+      padding: 1rem;
+      font-size: 1.25rem;
+      outline: 2px solid red;
+      text-align: center;
+  }
+  .a .flex-item {background-color: lightcoral;}
+.b .flex-item {background-color: gold;}
+.c .flex-item {background-color: lightcyan;}
+.d .flex-item {background-color: lightsteelblue;}
+.e .flex-item {background-color: lightseagreen;}
+.f .flex-item {background-color: violet;}
+.g .flex-item {background-color: cornflowerblue;}
+  
