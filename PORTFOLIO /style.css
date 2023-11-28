@@ -1,0 +1,21 @@
+.cement {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+
+
+}
+h1 { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 16vw;
+    color:#bbabcd ;
+    text-shadow:  4px 4px 4px #c44bc2, 6px 6px 2px #78ff69 ;
+    
+}
